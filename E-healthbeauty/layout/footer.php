@@ -9,11 +9,11 @@
                 <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
                     <!-- Content -->
                     <h6 class="text-uppercase fw-bold mb-4">
-                        <img src="assets/img/logo.png" alt="" width="20px" class="me-3">Nanda putra Beauty Store
+                        <img src="assets/img/logo.png" alt="" width="20px" class="me-3">TechNova Beauty Store
                     </h6>
                     <p>
                         Temukan kecantikan Anda dengan koleksi produk terbaik kami, dan nikmati pengalaman perawatan kulit yang luar biasa!
-                        Bersama Nanda putra Beauty Store
+                        Bersama TechNova Beauty Store
                     </p>
                 </div>
                 <!-- Grid column -->
@@ -64,10 +64,10 @@
                 <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
                     <!-- Links -->
                     <h6 class="text-uppercase fw-bold mb-4">Contact</h6>
-                    <p><i class="fas fa-home me-3 text-primary-color"></i> Depok, Indonesia</p>
+                    <p><i class="fas fa-home me-3 text-primary-color"></i> Jakarta, Indonesia</p>
                     <p>
                         <i class="fas fa-envelope me-3 text-primary-color"></i>
-                        nandabeautystore@gmail.com
+                        technovabeautystore@gmail.com
                     </p>
                     <p><i class="fas fa-phone me-3 text-primary-color"></i> + 62(21) - 14045</p>
                     <p><i class="fas fa-print me-3 text-primary-color"></i> + 62(21) - 14045</p>
@@ -82,7 +82,7 @@
     <!-- Copyright -->
     <div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.025);">
         © 2024 Copyright:
-        <a class="text-reset fw-bold" href="#">Nanda putra Beauty Store</a>
+        <a class="text-reset fw-bold" href="#">TechNova Beauty Store</a>
     </div>
     <!-- Copyright -->
 </footer>
