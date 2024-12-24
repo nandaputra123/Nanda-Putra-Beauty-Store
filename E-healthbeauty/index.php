@@ -17,8 +17,8 @@ $products = query("SELECT * FROM product");
     <div class="mask" style="background-color: rgba(0,0,0, 0.6);">
         <div class="d-flex justify-content-center align-items-center h-100">
             <div class="text-secondary-color">
-                <h1 class="mb-2">Nanda Putra Beauty Store</h1>
-                <h4 class="mb-4" style="max-width: 800px;">Welcome to Nanda Putra Beauty Store, where you can find the best beauty products for your skin
+                <h1 class="mb-2">TechNova Beauty Store</h1>
+                <h4 class="mb-4" style="max-width: 800px;">Welcome to TechNova Beauty Store, where you can find the best beauty products for your skin
                     and hair.
 </h4>
                 <a class="btn btn-primary-color btn-lg" href="#products" role="button">View Product</a>
